@@ -17,4 +17,5 @@
   let pezPosicion2 = muchos_peces.indexOf("estrella")
   console.log("Estrella está en la posición: " + pezPosicion2)
 
+  console.log("Porque estrella en minusculas no existe y no lo encuentra en el array")
   
