@@ -25,3 +25,5 @@ for(let i=0; i<=muchos_peces.length; i++) {
     console.log("Pez siguiente: " + siguiente_pez)
 }
 
+
+console.log("¿Porque el úñtimo mensaje dice 'Pez siguiente: undefined?'", "Porque el array solo tiene 4 elementos. El último pez no está definido")
